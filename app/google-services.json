@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677521676566",
+    "project_id": "luxgan-33212",
+    "storage_bucket": "luxgan-33212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677521676566:android:104dd53112c83e84821837",
+        "android_client_info": {
+          "package_name": "com.anjana.luxgan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUlBlM7bWozzo0UsJ9JyK6GzEcrMSLNvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

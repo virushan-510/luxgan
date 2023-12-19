@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PandaMartActivity">
+
+
+<!--    <androidx.constraintlayout.widget.ConstraintLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:padding="10dp"-->
+<!--        tools:ignore="ExtraText">-->
+
+<!--        <include-->
+<!--            android:id="@+id/toolbar"-->
+<!--            layout="@layout/activity_panda_mart"-->
+<!--            tools:ignore="ResourceCycle"-->
+<!--            tools:layout_editor_absoluteX="16dp"-->
+<!--            tools:layout_editor_absoluteY="70dp" />-->
+
+<!--        <com.smarteist.autoimageslider.SliderView-->
+<!--            android:id="@+id/slider"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="150dp"-->
+<!--            android:layout_centerInParent="true"-->
+<!--            android:layout_marginTop="8dp"-->
+<!--            app:layout_constraintTop_toBottomOf="@+id/editText3"-->
+<!--            app:sliderAnimationDuration="600"-->
+<!--            app:sliderAutoCycleDirection="back_and_forth"-->
+<!--            app:sliderIndicatorAnimationDuration="600"-->
+<!--            app:sliderIndicatorEnabled="true"-->
+<!--            app:sliderIndicatorGravity="center_horizontal|bottom"-->
+<!--            app:sliderIndicatorMargin="15dp"-->
+<!--            app:sliderIndicatorOrientation="horizontal"-->
+<!--            app:sliderIndicatorPadding="3dp"-->
+<!--            app:sliderIndicatorRadius="2dp"-->
+<!--            app:sliderIndicatorSelectedColor="#5A5A5A"-->
+<!--            app:sliderIndicatorUnselectedColor="#FFF"-->
+<!--            app:sliderScrollTimeInSec="1"-->
+<!--            tools:ignore="MissingClass,MissingConstraints,"-->
+<!--            tools:layout_editor_absoluteX="10dp" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/textView5"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:textSize="20sp"-->
+
+
+<!--            android:text="Watch-store"-->
+<!--            app:layout_constraintBottom_toBottomOf="@+id/toolbar"-->
+<!--            app:layout_constraintEnd_toEndOf="parent"-->
+<!--            app:layout_constraintStart_toStartOf="parent"-->
+<!--            app:layout_constraintTop_toTopOf="@+id/toolbar" />-->
+
+<!--        <EditText-->
+<!--            android:id="@+id/editText3"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_margin="6dp"-->
+<!--            android:layout_marginTop="52dp"-->
+<!--            android:background="@drawable/edit_text_bg"-->
+<!--            android:drawableLeft="@drawable/search"-->
+<!--            android:drawablePadding="5dp"-->
+<!--            android:drawableTint="@color/purple"-->
+<!--            android:elevation="5dp"-->
+<!--            android:padding="15dp"-->
+<!--            android:text="Search Product &amp; Categories"-->
+<!--            android:textSize="13sp"-->
+<!--            app:layout_constraintTop_toBottomOf="@+id/toolbar"-->
+<!--            tools:layout_editor_absoluteX="17dp" />-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--            tools:layout_editor_absoluteX="-24dp" />-->
+
+
+<!--    </androidx.constraintlayout.widget.ConstraintLayout>-->
+
+
+</androidx.core.widget.NestedScrollView>
